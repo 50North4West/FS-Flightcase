@@ -1,0 +1,7 @@
+# Stops anyone being able to point the browser to the app folder
+# and view all the files and directories
+
+  Options -Indexes
+  
+  Order deny,allow
+  Deny from all

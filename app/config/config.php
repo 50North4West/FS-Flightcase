@@ -8,9 +8,9 @@
 
   //live db params
   //define('DB_HOST', 'localhost');
-  //define('DB_USER', 'ukpxt4ekqxrcq');
-  //define('DB_PASS', '6gu5xsbh6tcn');
-  //define('DB_NAME', 'dbykpxt4ekqxrc');
+  //define('DB_USER', '');
+  //define('DB_PASS', '');
+  //define('DB_NAME', '');
 
   //app root
   define('APPROOT', dirname(dirname(__FILE__)));
@@ -53,19 +53,19 @@
   define('FILESIZE', '3000000');
 
   //PHPMail settings - SMTP Host
-  define('EMAILSMTPHOST', 'yachtmanager.co.uk');
+  define('EMAILSMTPHOST', '');
 
   //PHPMail settings - Email username
-  define('EMAILUSERNAME', 'matt@yachtmanager.co.uk');
+  define('EMAILUSERNAME', '');
 
   //PHPMail settings - Email password
-  define('EMAILPASSWORD', 'nbnU4qvg3uJtOyntG6uL');
+  define('EMAILPASSWORD', '');
 
   //PHPMail settings - Email set from Address
-  define('EMAILSETFROMADDRESS', 'matt@yachtmanager.co.uk');
+  define('EMAILSETFROMADDRESS', '');
 
   //PHPMail settings - Email set from name
-  define('EMAILSETFROMNAME', 'Matt Barraud');
+  define('EMAILSETFROMNAME', '');
 
   //PHPMail settings - Email sending port
   define('EMAILPORT', 25);
